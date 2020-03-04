@@ -1,5 +1,5 @@
 clear all
-%% The line and load data of 69-node Radila Distributio System 
+%% The line and load data of 69-node Radial Distribution System 
     %Branch SE   RE            r           x         
     %Number Node Node         (?)         (?)        
 % LD=[1       1       2       0.0005      0.0012      
